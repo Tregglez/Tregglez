@@ -2,7 +2,9 @@
 
 **`Front-End Developer`**
 
-I'm a front-end web developer with a strong focus on building high-quality and user-friendly web experiences. With an eye for detail, I approach each project with a clear plan and a passion for excellence. My goal is to create projects that are both aesthetically pleasing and highly functional, using my extensive knowledge of HTML, CSS, and JavaScript to bring my designs to life. I have a dedication to learning and constantly strive to improve my skills, ensuring that each project I build is better than the last. Whether working independently or as part of a team, I have the drive and determination to deliver results, and are always looking for ways to push the boundaries of what is possible on the web.
+I'm a front-end web developer with a strong focus on building high-quality and user-friendly web experiences. With an eye for detail, I approach each project with a clear plan and a passion for excellence. My goal is to create projects that are both aesthetically pleasing and highly functional, using my extensive knowledge of HTML, CSS, and JavaScript to bring my designs to life. 
+
+I have a dedication to learning and constantly strive to improve my skills, ensuring that each project I build is better than the last. Whether working independently or as part of a team, I have the drive and determination to deliver results, and are always looking for ways to push the boundaries of what is possible on the web.
 
 ---
 
